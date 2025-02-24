@@ -1,0 +1,14 @@
+.input-section textarea {
+    width: 100%;
+    margin-top: 15px;
+    padding: 12px;
+    border-radius: 8px;
+    border: 1px solid #d1d5db;
+    resize: vertical;
+    font-size: 1rem;
+  }
+  
+  .input-section input[type='file'] {
+    margin-top: 15px;
+  }
+  
