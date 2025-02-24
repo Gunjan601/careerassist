@@ -1,4 +1,5 @@
-AI-Powered Career Assistant
+**AI-Powered Career Assistant**
+
 A smart career assistant that helps users enhance their resumes, match them with job descriptions, and prepare for interviews using AI. This tool is built with features like resume parsing, resume enhancement, job description matching, and generating interview questions.
 
 Features
